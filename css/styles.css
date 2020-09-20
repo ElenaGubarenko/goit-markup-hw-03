@@ -144,14 +144,14 @@ body {
   color: var(--white-color);
   letter-spacing: 0.06em;
   text-transform: uppercase;
-  text-align: center;
+  /*text-align: center;*/
 }
 
 .hero {
   padding-top: 200px;
   padding-bottom: 200px;
-  padding-right: 452px;
-  padding-left: 452px;
+  /*padding-right: 452px;
+  padding-left: 452px;*/
   text-align: center;
   background-color: #2f303a;
 }
