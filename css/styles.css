@@ -148,10 +148,11 @@ body {
 }
 
 .hero {
-  padding: 200px 452px;
-
+  padding-top: 200px;
+  padding-bottom: 200px;
+  padding-right: 452px;
+  padding-left: 452px;
   text-align: center;
-
   background-color: #2f303a;
 }
 
@@ -361,8 +362,7 @@ body {
 .categories-button {
   padding: 13px 23px;
   margin: 0;
-  border: 0;
-
+  border: none;
   min-width: 80px;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
